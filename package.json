@@ -1,0 +1,16 @@
+{
+  "name": "anon-bitcoin",
+  "version": "0.0.0",
+  "description": "Buy bitcoin.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kirby Kohlmorgen",
+  "license": "MIT",
+  "dependencies": {
+    "coinbase": "2.0.6",
+    "dotenv": "4.0.0",
+    "inquirer": "3.0.6"
+  }
+}
