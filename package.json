@@ -11,6 +11,6 @@
   "dependencies": {
     "coinbase": "2.0.6",
     "dotenv": "4.0.0",
-    "inquirer": "3.0.6"
+    "inquirer": "3.3.0"
   }
 }
