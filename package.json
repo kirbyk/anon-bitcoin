@@ -9,7 +9,7 @@
   "author": "Kirby Kohlmorgen",
   "license": "MIT",
   "dependencies": {
-    "coinbase": "2.0.6",
+    "coinbase": "2.0.8",
     "dotenv": "4.0.0",
     "inquirer": "3.0.6"
   }
