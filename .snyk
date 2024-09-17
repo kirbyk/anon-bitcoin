@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - coinbase > request > hawk > cryptiles > boom > hoek:
+        patched: '2024-09-17T04:58:12.959Z'
+        id: 'npm:hoek:20180212'
+        path: coinbase > request > hawk > cryptiles > boom > hoek
